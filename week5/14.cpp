@@ -21,4 +21,5 @@ int main()
     }
 
     cout << "number of digits: " << digit << endl;
+    return 0;
 }

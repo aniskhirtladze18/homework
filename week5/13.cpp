@@ -17,4 +17,5 @@ int main()
         }
     }
     cout << "all numbers positive:"; 
+    return 0;
 }
