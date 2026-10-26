@@ -1,7 +1,7 @@
 #include <iostream>
-
+// third angle of a triangle.
 int main(){
-
+    
     int a, b;
     std::cout << "provide two angles of a triangle:" << std::endl;
     std::cin >> a >> b;
