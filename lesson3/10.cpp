@@ -1,4 +1,4 @@
-#include <iostream>
+ #include <iostream>
 using namespace std;
 //4. Find minimum of two chars. Print its value and code.
 int main()
