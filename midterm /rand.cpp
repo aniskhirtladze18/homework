@@ -2,7 +2,7 @@
 using namespace std;
 
 int main(){
-    srand((time(nullptr)));    
+    srand((time(0)));    
     int num;
     int secretnumber = rand() % 10;
     cout << secretnumber;
@@ -24,5 +24,6 @@ int main(){
         }
         
     }
+    
     return 0;
 }
